@@ -17,15 +17,16 @@
 
 I am a Frontend / Junior Full Stack Developer focused on building clean, responsive, and user-friendly web applications.
 
-- Currently improving my skills in React, Node.js, and modern web development
+- Currently improving my skills in React, Node.js,PHP and modern web development
 - Interested in UI/UX, scalable components, and real-world projects
 - Open to junior developer roles, internships, and collaboration
+- I also have experience with PHP and MySQL for backend development
 - Goal: become a strong full stack developer with solid frontend expertise
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode" />
 </p>
 
 ### GitHub Stats
