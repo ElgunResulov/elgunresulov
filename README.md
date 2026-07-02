@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Adın] 👋</h1>
+<h1 align="center">Hi, I'm Elgun Resulov 👋</h1>
 <h3 align="center">Frontend / Junior Full Stack Developer</h3>
 
 <p align="center">
@@ -38,10 +38,10 @@ I am a Frontend / Junior Full Stack Developer focused on building clean, respons
 ### Contact
 
 <p>
-  <a href="mailto:EMAIL">
+  <a href="mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/elgunresulov/">
     <img src="https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
