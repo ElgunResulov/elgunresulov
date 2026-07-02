@@ -29,17 +29,10 @@ I am a Frontend / Junior Full Stack Developer focused on building clean, respons
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode" />
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ElgunResulov&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
 ### Contact
 
 <p>
-  <a href="mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+  <a href="mailto:01elgunresulov@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/elgunresulov/">
