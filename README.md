@@ -32,7 +32,7 @@ I am a Frontend / Junior Full Stack Developer focused on building clean, respons
 ### Contact
 
 <p>
-  <a href="mailto:01elgunresulov@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=01elgunresulov@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/elgunresulov/">
