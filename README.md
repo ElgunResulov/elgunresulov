@@ -33,7 +33,7 @@ I am a Frontend / Junior Full Stack Developer focused on building clean, respons
 
 <p>
   <a href="mailto:01elgunresulov@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/elgunresulov/">
     <img src="https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin" />
